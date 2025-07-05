@@ -11,7 +11,7 @@ const company = [
 const products = [
     { label: "Four-Function Calculator", href: "/fourfunction" },
     { label: "Matrix Calculator", href: "/matrix" },
-    { label: "Scientific Calculator", href: "/Scientific" },
+    { label: "Scientific Calculator", href: "/scientific" },
 ];
 
 const resources = [
